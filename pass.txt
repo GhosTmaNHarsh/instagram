@@ -1,1 +1,8 @@
-replace password wordlist with this file but don't forget to set password file name as pass.txt
+123
+321
+123456789
+97653211
+25689-$347
+test
+sql
+qeyioogfs
