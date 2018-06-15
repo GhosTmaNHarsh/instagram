@@ -1,0 +1,1 @@
+replace password wordlist with this file but don't forget to set password file name as pass.txt
