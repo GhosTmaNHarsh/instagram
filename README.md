@@ -8,6 +8,8 @@ Steps to be followed after cloneing the URL
     
     nano pass.txt (you can add more passwords here according to your needs by default it's just a empty file)
     
+    pip install requests
+
     python hackinsta.py
     
 I am not responsible for any of your actions
